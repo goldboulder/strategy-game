@@ -1,0 +1,38 @@
+2 Max Health
+0 Heal Rate
+0.3 Movement Speed
+1 Attack Cooldown
+20 Size
+50 Attack Range
+150 Sight Range
+3 Health Drops
+3 XPDrops
+1 Attacks Per Cycle
+1 Stab Resistance
+1 Slash Resistance
+1.1 Crush Resistance
+1.2 Fire Resistance
+1 Wind Resistance
+1 Ice Resistance
+1 Electric Resistance
+-1 Holy Resistance
+1 Unholy Resistance
+1 Energy Resistance
+0.9121212 Magic Resistance
+1 Explosion Resistance
+1 Water Resistance
+1 Acid Resistance
+0.5 Decreasing DOT Resistance
+0.5 Constant DOT Resistance
+0.5 0.1 Move Speed Down Resistance, Recover Rate
+0.5 Attack Delay Resistance
+0.5 Vampiric Resistance
+0.5 0.1 Defence Down Resistance, Recover Rate
+0.5 0 Attack Down Resistance, Recover Rate
+0.5 0.01 Attack Range Down Resistance, Recover Rate
+0.5 0.1 Attack Speed Down Resistance, Recover Rate
+0.5 0.1 Sight Range Down Resistance, Recover Rate
+0.5 Confusion Resistance
+Attack Choices:
+crush none 0.5 1 0 0 attribute effect damage weight effectNumber1 effectNumber2
+fire cdot 1 1 1 1 attribute effect damage weight effectNumber1 effectNumber2

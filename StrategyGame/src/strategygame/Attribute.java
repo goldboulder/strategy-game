@@ -1,0 +1,6 @@
+package strategygame;
+
+
+public enum Attribute {STAB,SLASH,CRUSH,FIRE,WIND,ICE,ELECTRIC,HOLY,UNHOLY,ENERGY,MAGIC,EXPLOSION,WATER,ACID}
+
+
